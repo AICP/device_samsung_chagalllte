@@ -11,3 +11,6 @@ ro.ril.telephony.mqanelements=6
 
 #Adaptive Backlight
 #ro.cm.hardware.cabc=/sys/class/lcd/panel/power_reduce
+
+# Screen Density
+ro.sf.lcd_density=320
